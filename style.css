@@ -1,0 +1,31 @@
+.container_A{
+    background-color: rgb(243, 36, 160);
+     height: 500px; 
+     width: 500px;
+}
+
+.container_B{
+    background-color: rgb(87, 166, 240); 
+    height: 50%;
+     width: 50%
+}
+
+.frase{
+    color: rgb(189, 68, 68); 
+    font-size: 40px; 
+    font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+      background-color: rgb(135, 221, 108);
+    }
+
+.container_D{
+    width: 50%;
+     height: 50vh; 
+     background-color: rgb(205, 222, 80);
+    }
+
+.container_E{
+    width: 75vw; 
+    height: 50%;
+     background-color: rgb(232, 93, 54);
+    }
